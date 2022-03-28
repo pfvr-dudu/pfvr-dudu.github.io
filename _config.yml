@@ -14,11 +14,11 @@ author: 's/Dudu/& 🏳️‍🌈/gi'
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://pfvr-dudu.github.io"
+  Sobre Mim: "aboutme"
+ # Resources:
+ #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+ #   - Learn markdown: "https://www.markdowntutorial.com/"
+  Home: "https://pfvr-dudu.github.io"
 
 # --- Logo --- #
 
